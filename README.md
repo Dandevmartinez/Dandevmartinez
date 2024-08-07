@@ -13,7 +13,9 @@ Estoy empezando como autodidacta, y el próximo curso empiezo el grado superior 
 
 No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un buen reto💪🏻
 
-¡Listo para enfrentar nuevos desafíos y crecer en este emocionante campo!
+<p ¡Listo para enfrentar nuevos desafíos y crecer en este emocionante campo! </p>
+
+Haciendo pruebas en cuenta[ Dany3gs/github.com](https://github.com/Dany3gs)
 
 
 ### · Por estos lares estoy entretenido:  
